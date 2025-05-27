@@ -1,0 +1,5 @@
+nltk
+rouge-score
+openai
+streamlit
+python-dotenv

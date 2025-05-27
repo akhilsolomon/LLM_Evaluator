@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "question": "How can I reset my internal VPN?",
+    "answer": "To reset your internal VPN, go to 'Settings' > 'Network & Internet' > 'VPN', select the internal VPN and click 'Forget'. Then reconnect using your internal credentials. If issues persist, contact the IT helpdesk via the support portal.",
+    "reference": "Go to system settings > VPN > Reset, then contact internal IT if it persists."
+  },
+  {
+    "id": "2",
+    "question": "What’s the policy for remote work?",
+    "answer": "Employees are allowed to work remotely up to 2 days a week with prior approval from their manager. Full remote work requires a special arrangement and HR approval.",
+    "reference": "Employees can work remotely up to 2 days/week with manager approval."
+  },
+  {
+    "id": "3",
+    "question": "Where can I find documentation for the internal deployment process?",
+    "answer": "You can find the internal deployment process documentation on Confluence under the 'Engineering > DevOps > Deployment' section. It includes steps for staging, approvals, and rollback.",
+    "reference": "Confluence > Engineering > Deployment"
+  },
+  {
+    "id": "4",
+    "question": "What’s the best way to request a new hardware device?",
+    "answer": "You can request new hardware by submitting a form on the Internal IT portal under 'Hardware Request'. Include your employee ID, desired specifications, and manager approval.",
+    "reference": "Fill the internal IT form for hardware requests with manager's approval."
+  }
+]
